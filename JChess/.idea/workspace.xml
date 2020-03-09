@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="639333f6-dbb9-4414-a403-6643f46c08e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqwboLBmrTeTOtTqMYXGWrHSmF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/guava-18.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.chess.engine.board.BoardUtils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chess.engine.board" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639333f6-dbb9-4414-a403-6643f46c08e8" name="Default Changelist" comment="" />
+      <created>1583683515104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583683515104</updated>
+      <workItem from="1583683528570" duration="22342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1583728659899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583728659899" />
+    <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583725367325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583725367325" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583725436847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583725436847" />
+    <state x="363" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583690131397">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583690131397" />
+    <state x="402" y="70" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1583725440597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="70" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1583725440597" />
+    <state x="389" y="108" key="FileChooserDialogImpl" timestamp="1583690548728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583690548728" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583690609717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583690609717" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583683557003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583683557003" />
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583689113552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1583689113552" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583728668286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583728668286" />
+  </component>
+</project>
